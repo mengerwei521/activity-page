@@ -15,6 +15,5 @@
   font-size: 16px;
   color: #2c3e50;
   height: 100%;
-  margin-top: 20px;
 }
 </style>
